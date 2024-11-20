@@ -1,0 +1,4 @@
+aiohttp==3.11.6
+certifi==2024.8.30
+discord-py-interactions==5.13.2
+numpy==2.1.3
