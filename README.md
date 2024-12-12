@@ -2,6 +2,10 @@
 
 a discord bot which utilizes the whiteout survival gift code redemption API to redeem gift codes for a list of users.
 
+# transition
+
+this project will be migrated to `wos-bot` instead because i plan to expand this project to include features other than giftcode redemption
+
 # installation and usage
 
 1. clone the repo `git clone https://github.com/zenpaiang/wos-giftcode-bot.git`
